@@ -274,7 +274,8 @@ ul i {
     position: relative;
     top: 12vh;
 }
-.card-container{
+
+.card-container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -315,6 +316,58 @@ ul i {
     text-align: center;
     margin-bottom: 50px;
 }
+
+/*  */
+.container5{
+    margin-top: 10vh;
+}
+.heading3 {
+    font-family: roboto;
+    font-size: 40px;
+    font-weight: 800;
+    color: black;
+    text-align: center;
+    margin-top: 10vh;
+}
+.heading4 {
+    font-family: roboto;
+    font-size: 20px;
+    font-weight: 800;
+    color: black;
+    text-align: center;
+    margin-top: 3vh;
+}
+.h-line{
+    margin-top: 3vh;
+}
+.heading5 {
+    font-family: roboto;
+    font-size: 20px;
+    font-weight: 800;
+    color: black;
+    text-align: center;
+    margin-top: 3vh;
+}
+.heading6 {
+    font-family: roboto;
+    font-size: 20px;
+    font-weight: 800;
+    color: black;
+    text-align: center;
+    margin-top: 3vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 /*  */
 .foot-container {
     width: 1520.8px;
@@ -382,6 +435,7 @@ ul i {
     top: 120px;
     left: 138px;
 }
+
 .legal-info1 {
     text-decoration: none;
     font-family: poppins;
