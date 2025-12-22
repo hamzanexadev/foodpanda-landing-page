@@ -318,9 +318,6 @@ ul i {
 }
 
 /*  */
-.container5{
-    margin-top: 10vh;
-}
 .heading3 {
     font-family: roboto;
     font-size: 40px;
@@ -357,22 +354,12 @@ ul i {
     margin-top: 3vh;
 }
 
-
-
-
-
-
-
-
-
-
-
-
 /*  */
 .foot-container {
     width: 1520.8px;
     height: 508px;
     background-color: black;
+    margin-top: 10vh;
 }
 
 .logo {
