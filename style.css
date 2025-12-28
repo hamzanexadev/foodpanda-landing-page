@@ -8,7 +8,6 @@ nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    width: 1520px;
     height: 65.2px;
 }
 
@@ -201,15 +200,22 @@ ul i {
 }
 
 /*  */
+
+
 .foot-container {
-    width: 1520.8px;
+    width: auto;
     height: 508px;
     background-color: black;
+    margin: 0 auto;
 }
 
 .foot-container img {
     margin-left: 138px;
     margin-top: 80px;
+}
+
+.box3 {
+    margin: 0 auto;
 }
 
 .sub-box {
@@ -265,6 +271,7 @@ ul i {
     top: 120px;
     left: 138px;
 }
+
 .legal-info1 {
     text-decoration: none;
     font-family: poppins;
